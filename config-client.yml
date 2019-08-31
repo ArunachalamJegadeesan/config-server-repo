@@ -2,3 +2,9 @@ welcome:
   message: Hello World,welcome..:)  
 management:
  endpoints.web.exposure.include: "*"
+security:
+  basic:
+    enabled: false
+management:
+  security:
+    enabled: false
