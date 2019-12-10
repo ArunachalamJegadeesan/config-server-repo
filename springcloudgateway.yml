@@ -1,10 +1,6 @@
 spring:
   application:
      name: springcloudgateway
-  security:
-    user:
-      name: user
-      password: password
   cloud:
     gateway:
       discovery:
